@@ -5,7 +5,7 @@ import org.springframework.stereotype.Controller;
 @Controller
 public class HelloController {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) {//hot-fix
 
     }
 
