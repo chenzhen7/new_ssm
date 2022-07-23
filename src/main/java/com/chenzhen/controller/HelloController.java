@@ -6,7 +6,7 @@ import org.springframework.stereotype.Controller;
 public class HelloController {
 
     public static void main(String[] args) {//hot-fix
-
+        System.out.println("hot-fix");
     }
 
 }
