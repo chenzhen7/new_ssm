@@ -7,6 +7,7 @@ public class HelloController {
 
     public static void main(String[] args) {//hot-fix
         System.out.println("master commit");
+        System.out.println("hot-fix");
     }
 
 }
