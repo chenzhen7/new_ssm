@@ -9,6 +9,7 @@ public class HelloController {
         System.out.println("master commit");
         System.out.println("hot-fix");
         System.out.println("push");
+        System.out.println("pull");
     }
 
 }
